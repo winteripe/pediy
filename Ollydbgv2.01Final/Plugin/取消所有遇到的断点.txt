@@ -1,0 +1,4 @@
+  kkk: 
+  bc eip
+  run
+  jmp kkk                          

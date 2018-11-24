@@ -1,0 +1,10 @@
+[INF] 16:25:08 mmbbq       version: 3.0.0
+[INF] 16:25:08 mmbbq       command: "C:\Users\Administrator\Desktop\OllyDBG v2.01 Final\ollydbg.exe" 
+[INF] 16:25:08 mmbbq       modpath: C:\Users\Administrator\Desktop\OllyDBG v2.01 Final\ollydbg.exe
+[INF] 16:25:08 mmbbq       pid:0x1194  tid:0x137C
+[INF] 16:25:08 mmbbq.c     found main thread id: 0x0000137C
+[ERR] 16:25:08 LUA_TRACE   [string "...\Desktop\OllyDBG v2.01 Final\plugin/mmbbq.lua"]:219: Inject configuration file not found: 4500.pid
+[ERR] 16:25:08 LUA_TRACE   [1] [C](-1): (null)
+[ERR] 16:25:08 LUA_TRACE   [2] [C](-1): (null)
+[ERR] 16:25:08 mmbbq.c     luaEnter interface not available
+[ERR] 16:25:08 luacall.c   luacall not initialized
